@@ -1,7 +1,5 @@
 # TypeScript
 
-## _Self learning repo_
-
 This repo includes all my projects while I am learning TypeScript.
 
 > [!NOTE]
