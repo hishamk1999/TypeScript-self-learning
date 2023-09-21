@@ -38,8 +38,9 @@ Note the `.ts` file extension on the `typescript.ts` file - we'll see other type
 > [!IMPORTANT]
 > We typically won't create JavaScript files in our TypeScript projects (even though it's totally valid to); we're just doing so here to enable us to compare JavaScript vs. TypeScript behavior in VS Code.
 
-| No  | Title |
-| :-- | :---- |
+| No  | Lecture                                                                                                 |
+| :-- | :------------------------------------------------------------------------------------------------------ |
+| 0   | [First-TypeScript](https://github.com/hishamk1999/TypeScript-self-learning/tree/main/first-typescript). |
 
 ## License
 
