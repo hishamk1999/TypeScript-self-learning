@@ -5,7 +5,7 @@ This repo includes all my projects while I am learning TypeScript.
 > [!NOTE]
 > All of my projects I applied while learning the TypeScript course .
 
-# Setup
+## Setup
 
 We'll eventually be installing TypeScript in individual project, but just to get up and running in simple environment, we're going to install TypeScript globally on our machine with the following command :
 
